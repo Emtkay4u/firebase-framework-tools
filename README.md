@@ -167,7 +167,7 @@ metadata:
   adapterPackageName: npm-name
   adapterVersion: 12.0.0
   framework: framework-name
-  frameworkVersion: 1.0.0
+  frameworkVersion: 1.0.1
 ```
 
 As long as you have the `bundle.yaml` in this format, App Hosting will be able to deploy any framework that supports server side rendering.
